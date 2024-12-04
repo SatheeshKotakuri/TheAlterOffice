@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f9fc;
+}
+
+.login-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.gantt-container {
+  padding: 20px;
+}
+
+.gantt-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.task-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 5px 0;
+  background: #e3f2fd;
+  border-radius: 4px;
+}
